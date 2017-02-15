@@ -9,4 +9,5 @@ Author: lolepopie
 Section: Hacks
 Size: 133
 MD5sum: CBB6722DFE567F5159BD2FB2F2FE6DAC
-Filename: .//deb/com.lolepopie.crollprem_1.0-1_iphoneos-arm.deb
+Filename: //deb/com.lolepopie.crollprem_1.0-1_iphoneos-arm.deb
+Depiction: http://lolepop.github.io/repo
