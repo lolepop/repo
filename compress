@@ -1,0 +1,3 @@
+#!/bin/bash
+
+tar -cvjf Packages.bz2 Packages

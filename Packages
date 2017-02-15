@@ -1,0 +1,12 @@
+Package: com.lolepopie.crollprem
+Name: Crunchyroll+
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Watch videos in HD and some other stuff. Some shit doesn't work properly.
+Maintainer: lolepopie
+Author: lolepopie
+Section: Hacks
+Size: 133
+MD5sum: CBB6722DFE567F5159BD2FB2F2FE6DAC
+Filename: .//deb/com.lolepopie.crollprem_1.0-1_iphoneos-arm.deb
