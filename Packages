@@ -11,3 +11,28 @@ Size: 133
 MD5sum: CBB6722DFE567F5159BD2FB2F2FE6DAC
 Filename: //deb/com.lolepopie.crollprem_1.0-1_iphoneos-arm.deb
 Depiction: http://lolepop.github.io/repo
+
+Package: dsniff
+Version: 1.0
+Section: Terminal
+Architecture: iphoneos-arm
+Filename: .//deb/dsniff.deb
+Size: 2110904
+MD5sum: 9b7c8d02c2bc3fd25317e447b95e7df8
+Description: Dsniff Suite Of Pentesting Tools For iPhone
+ dsniff is a collection of tools for network auditing and penetration testing. dsniff, filesnarf, mailsnarf, msgsnarf, urlsnarf, and webspy passively monitor a network for interesting data (passwords, e-mail, files, etc.). arpspoof, dnsspoof, and macof facilitate the interception of network traffic normally unavailable to an attacker (e.g, due to layer-2 switching). sshmitm and webmitm implement active monkey-in-the-middle attacks against redirected SSH and HTTPS sessions by exploiting weak bindings in ad-hoc PKI.
+Name: Dsniff Suite
+Depiction: http://lolepop.github.io/repo
+
+Package: arp-scan
+Version: 1.8.1-1
+Section: Terminal
+Depends: libpcap
+Architecture: iphoneos-arm
+Filename: .//deb/arp-scan.deb
+Size: 283502
+MD5sum: 9c084377cdcce84f54e6f3fa73bbb817
+Description: ARP scanning and fingerprinting tool
+ arp-scan is a command-line tool that uses the ARP protocol to discover and fingerprint IP hosts on the local network. It is available under the GPL licence (GPLv3).
+Name: Arp Scan
+Depiction: http://lolepop.github.io/repo
