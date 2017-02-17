@@ -13,7 +13,7 @@ Filename: //deb/com.lolepopie.crollprem_1.0-1_iphoneos-arm.deb
 Depiction: http://lolepop.github.io/repo
 
 Package: dsniff
-Version: 1.0
+Version: 2.4b2-1
 Section: Terminal
 Architecture: iphoneos-arm
 Filename: .//deb/dsniff.deb
