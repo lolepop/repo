@@ -8,7 +8,7 @@ Maintainer: lolepopie
 Author: lolepopie
 Section: Hacks
 Size: 133
-MD5sum: CBB6722DFE567F5159BD2FB2F2FE6DAC
+MD5sum: cbb6722dfe567f5159bd2fb2f2fe6dac
 Filename: //deb/com.lolepopie.crollprem_1.0-1_iphoneos-arm.deb
 Depiction: http://lolepop.github.io/repo
 
@@ -47,6 +47,6 @@ Maintainer: lolepopie
 Author: lolepopie
 Section: Hacks
 Size: 13
-MD5sum: 82729DE869B3368B10A723EE8BFF1E09
+MD5sum: 82729de869b3368b10a723ee8bff1e09
 Filename: //deb/com.lolepopie.bhplus_1.0.0-1_iphoneos-arm.deb
 Depiction: http://lolepop.github.io/repo
