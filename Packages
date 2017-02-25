@@ -3,7 +3,7 @@ Name: Crunchyroll+
 Depends: mobilesubstrate
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Watch videos in HD and some other stuff. Some shit doesn't work properly.
+Description: Broken, here for archiving purposes only.
 Maintainer: lolepopie
 Author: lolepopie
 Section: Hacks
@@ -35,4 +35,18 @@ MD5sum: 9c084377cdcce84f54e6f3fa73bbb817
 Description: ARP scanning and fingerprinting tool
  arp-scan is a command-line tool that uses the ARP protocol to discover and fingerprint IP hosts on the local network. It is available under the GPL licence (GPLv3).
 Name: Arp Scan
+Depiction: http://lolepop.github.io/repo
+
+Package: com.lolepopie.bheadplus
+Name: Blockheads+
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Achievements button for speedhack. Help button for flyhack.
+Maintainer: lolepopie
+Author: lolepopie
+Section: Hacks
+Size: 13
+MD5sum: 82729DE869B3368B10A723EE8BFF1E09
+Filename: //deb/com.lolepopie.bhplus_1.0.0-1_iphoneos-arm.deb
 Depiction: http://lolepop.github.io/repo
