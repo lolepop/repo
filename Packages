@@ -1,13 +1,13 @@
 Package: com.lolepopie.crollprem
 Name: Crunchyroll+
 Depends: mobilesubstrate
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Description: Broken, here for archiving purposes only.
 Maintainer: lolepopie
 Author: lolepopie
 Section: Hacks
-Size: 133
+Size: 136300
 MD5sum: cbb6722dfe567f5159bd2fb2f2fe6dac
 Filename: //deb/com.lolepopie.crollprem_1.0-1_iphoneos-arm.deb
 Depiction: http://lolepop.github.io/repo
@@ -40,13 +40,13 @@ Depiction: http://lolepop.github.io/repo
 Package: com.lolepopie.bheadplus
 Name: Blockheads+
 Depends: mobilesubstrate
-Version: 1.0
+Version: 1.0.0-1
 Architecture: iphoneos-arm
-Description: Achievements button for speedhack. Help button for flyhack.
+Description: Achievements button for speedhack. Help button for flyhack. Temporary placeholder before I decide to make a actual page for this.
 Maintainer: lolepopie
 Author: lolepopie
 Section: Hacks
-Size: 13
+Size: 12466
 MD5sum: 82729de869b3368b10a723ee8bff1e09
 Filename: //deb/com.lolepopie.bhplus_1.0.0-1_iphoneos-arm.deb
 Depiction: http://lolepop.github.io/repo
