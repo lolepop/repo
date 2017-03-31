@@ -23,7 +23,7 @@ Description: ARP scanning and fingerprinting tool
 Name: Arp Scan
 Depiction: http://lolepop.github.io/repo
 
-Package: com.lolepopie.bheadplus
+Package: com.lolepopie.bhplus
 Version: 1.0.0-1
 Architecture: iphoneos-arm
 Maintainer: lolepopie <>
