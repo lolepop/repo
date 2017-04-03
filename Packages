@@ -32,7 +32,7 @@ Size: 15074
 Section: Hacks
 Description: Achievements button for speedhack. Help button for flyhack. Temporary placeholder before I decide to make a actual page for this.
 Depends: mobilesubstrate
-MD5sum: CED0B847DE01CA705C65CC33D84DE24D
+MD5sum: ced0b847de01ca705c65cc33d84de24d
 Author: lolepopie <>
 Depiction: http://lolepop.github.io/repo/pages/bhplus.html
 Name: Blockheads+
@@ -46,7 +46,7 @@ Size: 15546
 Section: Hacks
 Description: A few hacks for the game
 Depends: mobilesubstrate
-MD5sum: 40EF0CB2D43E515E043C27CEBC078F09
+MD5sum: 40ef0cb2d43e515e043c27cebc078f09
 Author: lolepopie <>
 Depiction: http://lolepop.github.io/repo/pages/etballplus.html
 Name: 8 Ball Pool+
