@@ -24,15 +24,29 @@ Name: Arp Scan
 Depiction: http://lolepop.github.io/repo
 
 Package: com.lolepopie.bhplus
-Version: 1.0.0-1
+Version: 1.1.0-1
 Architecture: iphoneos-arm
 Maintainer: lolepopie <>
-Filename: //deb/com.lolepopie.bhplus_1.0.0-1_iphoneos-arm.deb
-Size: 12466
+Filename: //deb/com.lolepopie.bhplus_1.1.0-1_iphoneos-arm.deb
+Size: 15074
 Section: Hacks
 Description: Achievements button for speedhack. Help button for flyhack. Temporary placeholder before I decide to make a actual page for this.
 Depends: mobilesubstrate
-MD5sum: 82729de869b3368b10a723ee8bff1e09
+MD5sum: CED0B847DE01CA705C65CC33D84DE24D
 Author: lolepopie <>
-Depiction: http://lolepop.github.io/repo
+Depiction: http://lolepop.github.io/repo/pages/bhplus.html
 Name: Blockheads+
+
+Package: com.lolepopie.etballplus
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: lolepopie <>
+Filename: //deb/com.lolepopie.etballplus_1.0.0-1_iphoneos-arm
+Size: 15546
+Section: Hacks
+Description: A few hacks for the game
+Depends: mobilesubstrate
+MD5sum: 40EF0CB2D43E515E043C27CEBC078F09
+Author: lolepopie <>
+Depiction: http://lolepop.github.io/repo/pages/etballplus.html
+Name: 8 Ball Pool+
