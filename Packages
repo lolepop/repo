@@ -41,7 +41,7 @@ Package: com.lolepopie.etballplus
 Version: 1.0.0-1
 Architecture: iphoneos-arm
 Maintainer: lolepopie <>
-Filename: //deb/com.lolepopie.etballplus_1.0.0-1_iphoneos-arm
+Filename: //deb/com.lolepopie.etballplus_1.0.0-1_iphoneos-arm.deb
 Size: 15546
 Section: Hacks
 Description: A few hacks for the game
